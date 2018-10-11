@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quan_ly_cong__viec</string>
+    <string name="title">Quản lý công việc hàng tuần</string>
+    <string name="congviec">Công việc:</string>
+    <string name="noidung">Nội dung:</string>
+    <string name="ngayht">Ngày HT:</string>
+    <string name="date">DATE</string>
+    <string name="time">TIME</string>
+    <string name="gioht">Giờ HT:</string>
+    <string name="themcv">Thêm CV</string>
+    <string name="dachcv">Danh sách công việc:</string>
+</resources>
