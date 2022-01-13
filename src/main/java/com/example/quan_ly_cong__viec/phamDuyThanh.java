@@ -50,13 +50,14 @@ public class phamDuyThanh {
         this.dateFinish = dateFinish;
         this.hourFinish = hourFinish;
     }
-      // ham dinh danh ngay thang hien thi theo form dd/MM/yyyy
+      // ham dinh danh ngay thang hien thi theo form dd/MM/yyyy12313
     public String getDateFormat(Date d)
     {
         SimpleDateFormat dft=new
                 SimpleDateFormat("dd/MM/yyyy", Locale.getDefault());
         return dft.format(d);
     }
+    //lan 4
     // ham dinh dang thoi gian hien thi theo form hh:mm a
     public String getHourFormat(Date d)
     {
